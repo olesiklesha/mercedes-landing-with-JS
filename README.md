@@ -1,1 +1,1 @@
-# mersedes-landing-with-JS
+https://olesiklesha.github.io/mersedes-landing-with-JS/
