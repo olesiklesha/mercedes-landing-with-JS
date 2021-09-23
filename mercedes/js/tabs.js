@@ -1,7 +1,6 @@
 const tabsHendlerElems = document.querySelectorAll('[data-tabs-handler]');
 const tabsContentElems = document.querySelectorAll('[data-tabs-field]');
-console.log(tabsContentElems);
-//.design-list__item_active
+
 for (let btn of tabsHendlerElems) {
   btn.addEventListener('click', () => {
     tabsHendlerElems.forEach(item => item.classList.remove('design-list__item_active'));
