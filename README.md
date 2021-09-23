@@ -1,1 +1,1 @@
-# mersedes-landing-with-JS
+# mercedes-landing-with-JS
